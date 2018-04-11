@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Go to Photo Album" height="250" scaling="false" />
+  <Content type="html">
+  <![CDATA[ 
+    <input id="input" value="Hola"/>
+    <button on-click="document.getElementById('input').value = 'Adios'">Click aqui</button>
+    
+  ]]> 
+  </Content>
+</Module>
